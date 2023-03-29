@@ -1,2 +1,4 @@
-# CI-CD-Terraform-GithubActions
-Terraform Masterclass with Packer, Docker &amp; Github
+# Nomad E-commerce store API
+
+This repo contains the Nomad E-commerce store API server project files.
+
